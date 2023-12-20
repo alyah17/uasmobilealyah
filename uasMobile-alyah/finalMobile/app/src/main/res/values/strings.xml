@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="login">Login</string>
+    <string name="nama">Nama</string>
+    <string name="logout">Logout</string>
+    <string name="hasil">hasil</string>
+    <string name="description">description</string>
+    <string-array name="judul_music">
+
+        <item>Burberry</item>
+        <item>bvlgari</item>
+        <item>celine</item>
+        <item>ck</item>
+        <item>coach</item>
+        <item>dior</item>
+        <item>fendi</item>
+        <item>givenchy</item>
+        <item>gucci</item>
+        <item>hermes</item>
+        <item>lv</item>
+        <item>mk</item>
+        <item>prada</item>
+        <item>valentino</item>
+        <item>ysl</item>
+
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Burberry adalah merek mode asal Inggris yang didirikan pada tahun 1856 oleh Thomas Burberry. Merek ini terkenal dengan kualitas kerajinan dan warisan tradisionalnya, khususnya dalam desain mantel dan aksesori cuaca dingin.</item>
+        <item>Bvlgari adalah merek mode dan perhiasan mewah asal Italia yang didirikan pada tahun 1884 oleh Sotirios Voulgaris, seorang perhiasan dari Yunani. Nama merek ini dieja sebagai "Bulgari" dalam bahasa Italia, namun, merek ini lebih dikenal dengan ejaan "Bvlgari" yang digunakan secara internasional.</item>
+        <item>Celine adalah merek mode mewah asal Prancis yang didirikan oleh Céline Vipiana pada tahun 1945. Merek ini terkenal dengan desain minimalis, elegan, dan pakaian yang berkualitas tinggi. Celine telah menjadi salah satu merek yang paling dihormati di dunia mode.</item>
+        <item>Charles and Keith adalah merek mode asal Singapura yang dikenal dengan produk-produk alas kaki dan aksesori yang terjangkau dan modis. Didirikan pada tahun 1996 oleh Charles Wong dan Keith Wong, merek ini telah berkembang menjadi merek internasional yang populer di kalangan penggemar mode.</item>
+        <item>Coach adalah merek mode asal Amerika yang terkenal dengan produk-produk kulitnya, terutama tas tangan dan aksesori. Didirikan pada tahun 1941 di New York, Coach awalnya dikenal sebagai pembuat barang-barang kulit kelas atas dengan desain yang elegan dan fokus pada kerajinan tangan yang berkualitas.</item>
+        <item>Christian Dior, atau lebih dikenal dengan nama Dior, adalah sebuah merek mode mewah asal Prancis yang didirikan oleh perancang mode Christian Dior pada tahun 1946. Dior terkenal dengan desain-desain haute couture yang elegan, feminin, dan romantis.</item>
+        <item>Fendi adalah merek mode mewah asal Italia yang didirikan pada tahun 1925 oleh Adele dan Edoardo Fendi. Merek ini terkenal dengan produk-produknya yang berkualitas tinggi, desain inovatif, dan kecenderungan untuk menggabungkan gaya klasik dengan elemen modern.</item>
+        <item>Givenchy adalah merek mode mewah asal Prancis yang didirikan oleh Hubert de Givenchy pada tahun 1952. Merek ini terkenal dengan desain elegan dan klasiknya, serta menciptakan pakaian yang memadukan unsur haute couture dengan gaya kontemporer.</item>
+        <item>Tas-tas Gucci, seperti Gucci Marmont, Dionysus, dan GG Supreme, sering menjadi favorit di kalangan penggemar mode dan selebriti. Selain itu, Gucci terkenal dengan kacamata hitamnya yang modis, sepatu kulit berkualitas tinggi, dan pakaian yang menggabungkan unsur-unsur klasik dengan sentuhan modern.</item>
+        <item>Hermès adalah merek mode mewah asal Prancis yang didirikan pada tahun 1837 oleh Thierry Hermès. Merek ini terkenal dengan produk-produknya yang berkualitas tinggi, kerajinan tangan yang luar biasa, dan warisan yang kaya.</item>
+        <item>Tas tangan Louis Vuitton, terutama yang memiliki desain monogram atau motif Damier, sering menjadi simbol status dan gaya ikonik. Louis Vuitton juga terkenal dengan kolaborasinya dengan desainer dan seniman terkenal, yang menghasilkan koleksi-koleksi eksklusif dan inovatif.</item>
+        <item>Tas tangan Michael Kors, terutama tas tangan yang memiliki logo MK yang khas, sangat populer di kalangan penggemar mode. Jam tangan Michael Kors juga terkenal dengan desain yang modis dan beragam.</item>
+        <item>Prada adalah merek mode mewah asal Italia yang terkenal dengan desain yang inovatif dan elegan. Didirikan pada tahun 1913 oleh Mario Prada, merek ini awalnya dikenal dengan produksi tas kulit dan barang-barang perjalanan. Namun, di bawah kepemimpinan cucunya, Miuccia Prada, Prada telah berkembang menjadi merek mode global yang menawarkan berbagai produk, termasuk pakaian, sepatu, aksesori, dan parfum.</item>
+        <item>"Valentino bag" merujuk pada tas yang diproduksi oleh merek Valentino. Tas ini mungkin memiliki berbagai gaya, desain, dan bahan, tetapi umumnya mengusung estetika mewah dan elegan yang menjadi ciri khas merek tersebut. Tas-tas Valentino sering dicari oleh pecinta mode karena kualitasnya yang tinggi dan desain yang fashion-forward.</item>
+        <item>Yves Saint Laurent SAS (pengucapan bahasa Prancis: [iv sɛ̃ lɔʁɑ̃]; YSL), juga disebut Saint Laurent, adalah rumah mode yang didirikan oleh Yves Saint Laurent dan pasangannya, Pierre Bergé, pada tahun 1962. Kini, kepala desainernya adalah Stefano Pilati. Yves Saint Laurent, pendiri perusahaan ini, meninggal tahun 2008.</item>
+    </string-array>
+    <array name="music_id">
+        <item>@raw/burberry</item>
+        <item>@raw/bvlgari</item>
+        <item>@raw/celine</item>
+        <item>@raw/ck</item>
+        <item>@raw/coach</item>
+        <item>@raw/dior</item>
+        <item>@raw/fendi</item>
+        <item>@raw/givenchy</item>
+        <item>@raw/gucci</item>
+        <item>@raw/hermes</item>
+        <item>@raw/lv</item>
+        <item>@raw/mk</item>
+        <item>@raw/prada</item>
+        <item>@raw/valentino</item>
+        <item>@raw/ysl</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/burberry</item>
+        <item>@drawable/bvlgari</item>
+        <item>@drawable/celine</item>
+        <item>@drawable/ck</item>
+        <item>@drawable/coach</item>
+        <item>@drawable/dior</item>
+        <item>@drawable/fendi</item>
+        <item>@drawable/givenchy</item>
+        <item>@drawable/gucci</item>
+        <item>@drawable/hermes</item>
+        <item>@drawable/lv</item>
+        <item>@drawable/mk</item>
+        <item>@drawable/prada</item>
+        <item>@drawable/valentino</item>
+        <item>@drawable/ysl</item>
+
+    </integer-array>
+</resources>
